@@ -1,4 +1,4 @@
-package com.example.sse.fragmenttransactions_sse;
+package com.example.yash.fragmenttransactions_sse;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
